@@ -3,14 +3,24 @@ A student productivity and assignment management portal built using Python and D
 
 
 1. Business Goals
+
 Centralize academic tasks and information.
+
 Improve student productivity and organization.
+
 Reduce missed deadlines and assignments.
+
 Provide personalized academic management.
+
 Simplify everyday academic planning.
+
+
 2. Epics
+
 User Authentication
+
 Student Dashboard
+
 Task Management
 Deadline Management
 Progress Tracking
